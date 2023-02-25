@@ -1,0 +1,19 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: onlinefoodphp**
+
+**Developed by Tony Steve**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: codeastro
+
+
+**new user for testing details**
+
+username : 6584597272
+Password: Danny12
